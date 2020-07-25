@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="250" src="https://raw.githubusercontent.com/robertcorponoi/graphics/master/tutorials/creating-a-loot-system/chest.png">
+  <img width="423" height="302" src="https://raw.githubusercontent.com/robertcorponoi/graphics/master/tutorials/creating-a-loot-system/chest.png">
 </p>
 
 <h1 align="center">Creating Loot Systems</h1>
