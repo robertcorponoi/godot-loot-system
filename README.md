@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="250" height="250" src="https://raw.githubusercontent.com/robertcorponoi/graphics/master/tutorials/creating-a-loot-system/chest.png">
+</p>
+
 <h1 align="center">Creating Loot Systems</h1>
 
 <p align="center">A demo repository for an article on creating loot systems.<p>
@@ -346,7 +350,7 @@ This might sound strange at first but think about it. Imagine you have a table t
 
 Here's a simple diagram to illustrate it:
 
-![Nested Tables](../../images/jul/creating-a-loot-system/nested-tables.png)
+![Nested Tables](https://raw.githubusercontent.com/robertcorponoi/graphics/master/tutorials/creating-a-loot-system/nested-tables.png)
 
 You can see that when you roll the monster table you have a chance to get a sword, a shield, or a drop off the rare loot table with the chances being what probabilities you choose to set.
 
